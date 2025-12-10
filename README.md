@@ -1,6 +1,6 @@
 # 📊 Excelerator Data Analysis Project with Google Colab
 
-This repository documents my learning journey and project work for the **Excelerator Data Analysis Program** — a course designed to equip participants with practical data analytics, visualization, and reporting skills.
+This repository documents my learning journey and project work for the Excelerator Data Analysis Program — a course designed to equip participants with practical data analytics, visualization, and reporting skills.
 
 ---
 
