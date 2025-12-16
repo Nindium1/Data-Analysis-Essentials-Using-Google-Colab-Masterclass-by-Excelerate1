@@ -7,11 +7,11 @@ The Excelerate Data Analysis Course is a hands-on 3-session program focusing on 
 
 ## Technologies Used
 - Python 3.8+
-- Pandas - Data Manipulation and Analysis
-- NumPy - Numerical computing and array operations
-- Matplotlib - Data Visualization
-- Seaborn - Statistical data visualization
-- Google Colab - Cloud-based Jupyter notebook environment
+- Pandas: Data Manipulation and Analysis
+- NumPy: Numerical computing and array operations
+- Matplotlib: Data Visualization
+- Seaborn: Statistical data visualization
+- Google Colab: Cloud-based Jupyter notebook environment
 
 ## Program Objectives
 - Apply fundamental data analysis concepts to a real dataset  
