@@ -1,6 +1,6 @@
 # Data Analysis Essentials Using Google Colab
 
-This repository documents my learning journey and project work for the Excelerator Data Analysis Program; a course designed to equip participants with practical data analytics, visualization, and reporting skills.
+This repository documents my learning journey and project work for the Excelerate Data Analysis Program; a course designed to equip participants with practical data analytics, visualization, and reporting skills.
 
 ## Course Overview
 The Excelerate Data Analysis Course is a hands-on 3-session program focusing on real-world data manipulation, cleaning, and visualization using Google Colab (cloud-based Python environment).
