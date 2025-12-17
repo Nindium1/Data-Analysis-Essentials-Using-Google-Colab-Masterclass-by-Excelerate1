@@ -111,8 +111,23 @@ Explored and compared 4 different methods:
 
 
 ## Session 3: Data Exploration and Preparation
+### We Covered:
+- Data loading and inspection from CSV files using Pandas.
+- Exploratory Data Analysis (EDA) using distribution analysis.
+- Data grouping and aggregation with the .groupby() function.
+- Advanced data visualization styling using Seaborn palettes and Matplotlib styles.
+- Statistical observation and business insight generation from data results.
 
-Will finish documenting this
+### Exercises Completed:
+- Revenue Distribution Analysis: Calculated total revenue across different geographical regions (East, North, South, West).
+- Regional Performance Visualization: Created customized bar charts to compare sales performance across regions.
+- Business Insight Reporting: Compiled a detailed "Observations & Discussion" report summarizing revenue percentages, regional performance gaps, and specific high/low-performing areas.
+
+### Skills Acquired:
+- Pandas Aggregation: Mastering the use of groupby() and sum() to extract meaningful business metrics.
+- Data Visualization Styling: Implementing plt.style.use and sns.set_palette to create professional, presentation-ready charts.
+- Analytical Thinking: Translating raw code output into structured business observations and performance summaries.
+- Dataset Management: Handling larger datasets (3,500 records) and ensuring data integrity during the analysis process.
 
 ## GETTING STARTED
 ### Prerequisites
