@@ -141,7 +141,7 @@ Google Colab account or Jupyter Notebook
 - Select the GitHub tab.
 - Enter this repository URL: https://github.com/Nindium1/Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1
 - Click on any notebook to open and run it.
-- 
+  
 ### Option 2: Clone the repository
 ```bash
 git clone https://github.com/Nindium1/Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1.git
