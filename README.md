@@ -135,11 +135,17 @@ Explored and compared 4 different methods:
 Python 3.8 or higher
 Google Colab account or Jupyter Notebook
 ```
-
-### Clone the repository
+### Option 1: Run Online (Recommended)
+- You can run these notebooks directly in your browser without installing anything:
+- Go to Google Colab.
+- Select the GitHub tab.
+- Enter this repository URL: https://github.com/Nindium1/Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1
+- Click on any notebook to open and run it.
+- 
+### Option 2: Clone the repository
 ```bash
 git clone https://github.com/Nindium1/Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1.git
-cd Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate
+cd Data-Analysis-Essentials-Using-Google-Colab-Masterclass-by-Excelerate1
 ```
 
 ### Install required libraries
