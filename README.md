@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="NAME_OF_CERTIFICATE_FILE.pdf">
+    <img src="NAME_OF_BADGE_FILE.png" width="200" alt="Course Badge">
+  </a>
+  <br>
+  <b>Data Analysis Essentials Masterclass Certificate</b>
+</p>
+
+---
+
+
+
 # Data Analysis Essentials Using Google Colab
 
 This repository documents my learning journey and project work for the Excelerate Data Analysis Program; a course designed to equip participants with practical data analytics, visualization, and reporting skills.
