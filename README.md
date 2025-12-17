@@ -30,7 +30,7 @@ excelerate-data-analysis-essentials/
     └── Sales_Transactions_3500.csv
 ```
 ##  Course Sessions
-## Session 1: Python Fundamentals
+## Session 1: Python Basics
 ### We Covered:
 - Variables, data types, and mathematical operations
 - Lists and dictionaries
