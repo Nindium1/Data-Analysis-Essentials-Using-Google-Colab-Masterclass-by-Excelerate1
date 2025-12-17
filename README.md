@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="file:///C:/Users/Nindium/Downloads/Data%20Analysis%20Essentials%20using%20Google%20Colab%20Masterclass%20Completed.pdf">
+  <a href="Data Analysis Essentials using Google Colab Masterclass Completed.pdf">
     <img src="badge.png" width="200" alt="Course Badge">
   </a>
   <br>
