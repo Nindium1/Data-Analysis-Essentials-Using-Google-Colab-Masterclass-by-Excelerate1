@@ -23,9 +23,9 @@ The Excelerate Data Analysis Course is a hands-on 3-session program focusing on 
 excelerate-data-analysis-essentials/
 ├── README.md
 ├── notebooks/
-│   ├── Day_1_Python_Basics.ipynb
-│   ├── Day_2_Data_Cleaning_EDA.ipynb
-│   └── Day_3_Data_Preparation.ipynb
+│   ├── Session_1_Python_Basics.ipynb
+│   ├── Session_2_Data_Cleaning_EDA.ipynb
+│   └── Session_3_Data_Preparation.ipynb
 └── data/
     └── Sales_Transactions_3500.csv
 ```
