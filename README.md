@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="NAME_OF_CERTIFICATE_FILE.pdf">
-    <img src="NAME_OF_BADGE_FILE.png" width="200" alt="Course Badge">
+  <a href="file:///C:/Users/Nindium/Downloads/Data%20Analysis%20Essentials%20using%20Google%20Colab%20Masterclass%20Completed.pdf">
+    <img src="badge.png" width="200" alt="Course Badge">
   </a>
   <br>
   <b>Data Analysis Essentials Masterclass Certificate</b>
